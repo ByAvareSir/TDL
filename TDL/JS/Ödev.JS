@@ -6,7 +6,7 @@ let li = document.querySelector("#list li")
 
 
 btnDOM.addEventListener("click", newList)
-document.addEventListener("DomContentLoaded", displayLocalStorage()) //DOM içeriği yüklendiğinde localstorage'ın görüntülenmesini sağlar.
+document.addEventListener("DomContentLoaded", displayLocalStorage()) 
 
 
 
